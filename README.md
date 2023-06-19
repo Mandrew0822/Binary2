@@ -9,7 +9,7 @@ Binary2 is an esoteric language heavely based upon the concepts of brainfuck, if
 
 ## Installation
 
-To install Snoop, follow these steps:
+To install Binary2, follow these steps:
 
      git clone https://github.com/Mandrew0822/Binary2.git
      cd Binary2
