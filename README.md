@@ -5,6 +5,8 @@ The long awaited sequel to binary
 
 Usage of normal binary can be traced back to the 40's and since we havent had any new additions to the very foundtation of technology as we know it I decided to make the sequel!
 
+In Binary2 theres several new characters added to its syntax that allows for more headaches, your welcome :)
+
 Binary2 is an esoteric language heavely based upon the concepts of brainfuck, if you can do it in bf you can do it here.
 
 ## Installation
